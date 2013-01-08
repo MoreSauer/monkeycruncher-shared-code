@@ -8,6 +8,6 @@
 // This package exports the various shared modules. It might be classier to have a real npm
 // module for each piece of functionality, but it seems like a lot of faff.
 
-var db = require('./lib/database');
+var db = require('./lib/heroku-postgres');
 
 exports.database = db;
