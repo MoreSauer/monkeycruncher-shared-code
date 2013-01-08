@@ -4,6 +4,7 @@
     "main": "main.js",
     "dependencies": {
         "redis": "*",
+        "connect-redis": "*",
         "url": "*",
         "pg": "*"
     }
