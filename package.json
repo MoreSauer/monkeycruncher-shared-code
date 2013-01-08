@@ -1,0 +1,10 @@
+{
+    "name": "monkeycruncher-shared-code",
+    "version": "0.1.0",
+    "main": "main.js",
+    "dependencies": {
+        "redis": "*",
+        "url": "*",
+        "pg": "*"
+    }
+}
