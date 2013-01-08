@@ -6,6 +6,7 @@
         "redis": "*",
         "connect-redis": "*",
         "url": "*",
-        "pg": "*"
+        "pg": "*",
+        "request": "*"
     }
 }
