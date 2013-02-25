@@ -11,9 +11,11 @@
 var db = require('./lib/heroku-postgres'),
     redis = require('./lib/heroku-redis'),
     sessionStore = require('./lib/session-store'),
-    campfire = require('./lib/campfire');
+    campfire = require('./lib/campfire'),
+    logging = require('./lib/logging');
 
 exports.database = db;
 exports.redis = redis;
 exports.sessionStore = sessionStore;
 exports.campfire = campfire;
+exports.logging = logging;
