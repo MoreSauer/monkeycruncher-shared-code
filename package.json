@@ -8,6 +8,7 @@
         "url": "*",
         "pg": "*",
         "request": "*",
-        "winston": "*"
+        "winston": "*",
+        "underscore": "*"
     }
 }
