@@ -3,6 +3,8 @@ MonkeyCruncher shared code
 
 This module contains code that is shared between the MonkeyCruncher server components.
 
+For information on running your own MonkeyCruncher instance, see the JonyEpsilon/monkeycruncher-core readme.
+
 
 Licence
 =======
